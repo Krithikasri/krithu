@@ -6,4 +6,4 @@ if n.isnumeric():
 	else:
 		print("Odd")
 else:
-	print("Invalid")
+	print("invalid")
