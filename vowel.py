@@ -6,4 +6,4 @@ if bb.isalpha:
 	else:
 		print("Consonant")
 else:
-	print("Invalid")
+	print("invalid")
